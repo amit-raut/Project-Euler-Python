@@ -1,13 +1,13 @@
-# Solution to Project Euler problems in Python
+#Solution to Project Euler (https://projecteuler.net/) Problems in Python
 
-These are my solutions to the problems posed on projecteuler.net.
-The solutions by no means perfect with algorithmic efficiency but almost all 
-solutions will run pretty fast.
+These are my solutions to the Project Euler (https://projecteuler.net/) Problems.
+
+The solutions to the problem are not necessasarily efficient in terms of algorithm but they are pretty fast and correct.
 
 Please feel free to modify the solutions as you wish.
 
-Any advice or comments regarding any solutions are more welcome!
+Any advise or suggestions regarding any solutions are most welcome!
 
-Thank you!
+Thank you,
 
-~Amit
+Amit Raut
