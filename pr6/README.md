@@ -1,6 +1,6 @@
-#Sum square difference | https://projecteuler.net/problem=6
+# Sum square difference | https://projecteuler.net/problem=6
 
-##Problem Statement
+# # Problem Statement
 
 The sum of the squares of the first ten natural numbers is,
 12 + 22 + ... + 102 = 385
@@ -12,5 +12,5 @@ Hence the difference between the sum of the squares of the first ten natural num
 
 Find the difference between the sum of the squares of the first one hundred natural numbers and the square of the sum.
 
-##Answer
+# # Answer
 **25164150**

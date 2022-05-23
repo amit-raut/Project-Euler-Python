@@ -1,6 +1,6 @@
-#Goldbach's other conjecture | https://projecteuler.net/problem=46
+# Goldbach's other conjecture | https://projecteuler.net/problem=46
 
-##Problem Statement
+# # Problem Statement
 
 
 
@@ -18,5 +18,5 @@ It turns out that the conjecture was false.
 What is the smallest odd composite that cannot be written as the sum of a prime and twice a square?
 
 
-##Answer
+# # Answer
 **5777**

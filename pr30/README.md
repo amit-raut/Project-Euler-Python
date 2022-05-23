@@ -1,4 +1,4 @@
-# Digit fifth powers | https://projecteuler.net/problem=30
+#  Digit fifth powers | https://projecteuler.net/problem=30
 
 Surprisingly there are only three numbers that can be written as the sum of fourth powers of their digits:
 ```
@@ -13,5 +13,5 @@ The sum of these numbers is 1634 + 8208 + 9474 = 19316.
 Find the sum of all the numbers that can be written as the sum of fifth powers of their digits.
 
 
-#Answer
+# Answer
 **443839**

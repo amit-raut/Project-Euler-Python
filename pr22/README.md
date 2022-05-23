@@ -1,4 +1,4 @@
-# Names Scores | https://projecteuler.net/problem=22
+#  Names Scores | https://projecteuler.net/problem=22
 
 Using names.txt (right click and 'Save Link/Target As...'), a 46K text file containing over five-thousand first names, begin by sorting it into alphabetical order. Then working out the alphabetical value for each name, multiply this value by its alphabetical position in the list to obtain a name score.
 
@@ -7,6 +7,6 @@ For example, when the list is sorted into alphabetical order, COLIN, which is wo
 What is the total of all the name scores in the file?
 
 
-#Answer
+# Answer
 
 **871198282**

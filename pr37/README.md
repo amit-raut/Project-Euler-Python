@@ -1,4 +1,4 @@
-#Truncatable primes | https://projecteuler.net/problem=37
+# Truncatable primes | https://projecteuler.net/problem=37
 
 
 
@@ -9,5 +9,5 @@ Find the sum of the only eleven primes that are both truncatable from left to ri
 NOTE: 2, 3, 5, and 7 are not considered to be truncatable primes.
 
 
-#Answer
+# Answer
 **748317**

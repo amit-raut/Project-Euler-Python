@@ -1,4 +1,4 @@
-# Longest Collatz sequence | https://projecteuler.net/problem=14
+#  Longest Collatz sequence | https://projecteuler.net/problem=14
 
 
 The following iterative sequence is defined for the set of positive integers:
@@ -16,5 +16,5 @@ Which starting number, under one million, produces the longest chain?
 NOTE: Once the chain starts the terms are allowed to go above one million.
 
 
-# Answer
+#  Answer
 837799

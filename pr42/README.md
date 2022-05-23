@@ -1,6 +1,6 @@
-#Coded triangle numbers | https://projecteuler.net/problem=42
+# Coded triangle numbers | https://projecteuler.net/problem=42
 
-##Problem Statement
+# # Problem Statement
 
 
 
@@ -13,5 +13,5 @@ By converting each letter in a word to a number corresponding to its alphabetica
 Using words.txt (right click and 'Save Link/Target As...'), a 16K text file containing nearly two-thousand common English words, how many are triangle words?
 
 
-##Answer
+# # Answer
 **162**

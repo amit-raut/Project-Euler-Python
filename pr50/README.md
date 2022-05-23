@@ -1,6 +1,6 @@
-#Consecutive prime sum | https://projecteuler.net/problem=50
+# Consecutive prime sum | https://projecteuler.net/problem=50
 
-##Problem Statement
+# # Problem Statement
 
 
 
@@ -14,5 +14,5 @@ The longest sum of consecutive primes below one-thousand that adds to a prime, c
 Which prime, below one-million, can be written as the sum of the most consecutive primes?
 
 
-##Answer
+# # Answer
 **997651**

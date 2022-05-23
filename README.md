@@ -1,4 +1,4 @@
-#Solution to Project Euler (https://projecteuler.net/) Problems in Python
+# Solution to Project Euler (https://projecteuler.net/) Problems in Python
 
 These are my solutions to the Project Euler (https://projecteuler.net/) Problems.
 

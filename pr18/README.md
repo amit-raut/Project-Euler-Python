@@ -1,4 +1,4 @@
-# Maximum Path Sum I | https://projecteuler.net/problem=18 
+#  Maximum Path Sum I | https://projecteuler.net/problem=18 
 
 
 By starting at the top of the triangle below and moving to 
@@ -41,6 +41,6 @@ triangle containing one-hundred rows; it cannot be solved by brute force,
 and requires a clever method! ;o)
 
 
-#Answer
+# Answer
 
 **1074**
